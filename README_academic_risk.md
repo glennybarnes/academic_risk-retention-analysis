@@ -5,7 +5,7 @@ This project simulates a real-world institutional analysis using anonymized synt
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - Analyzed GPA trends and academic warnings across 1,000+ fictional student records
 - Identified the correlation between warning count and GPA/retention outcomes
@@ -14,7 +14,7 @@ This project simulates a real-world institutional analysis using anonymized synt
 
 ---
 
-## 💼 Real-World Context
+## Real-World Context
 
 This notebook is modeled after a confidential academic analytics project aimed at helping institutions identify at-risk students early and intervene more effectively.
 
@@ -22,7 +22,7 @@ This notebook is modeled after a confidential academic analytics project aimed a
 
 ---
 
-## 📈 Key Features
+## Key Features
 
 - **Regression analysis** of warning count vs GPA
 - **Boxplots & violin plots** for distributional insights
@@ -31,14 +31,14 @@ This notebook is modeled after a confidential academic analytics project aimed a
 
 ---
 
-## 📁 Files
+## Files
 
 - `Academic_Risk_Retention_Analysis.ipynb`: Full notebook with analysis and visualizations
 - `mock_academic_warning_data.csv`: Synthetic student data
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Python: pandas, seaborn, matplotlib
 - Regression: statsmodels
@@ -46,14 +46,10 @@ This notebook is modeled after a confidential academic analytics project aimed a
 
 ---
 
-## 🛡️ Note
+## Note
 
 This project is inspired by a confidential client engagement and re-constructed using synthetic data for educational purposes.
 
 ---
 
-## 📫 Contact
 
-**Glenn Barnes**  
-📧 aboutus@lgs.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
